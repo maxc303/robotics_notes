@@ -8,3 +8,10 @@
 [A Tutorial on Graph-Based SLAM, Grisetti](http://www2.informatik.uni-freiburg.de/~stachnis/pdf/grisetti10titsmag.pdf)
 
 [The GraphSLAM Algorithm with Applications to Large-Scale Mapping of Urban Structures, Thrun](http://www2.informatik.uni-freiburg.de/~stachnis/pdf/grisetti10titsmag.pdf)
+
+
+## Path Planning
+
+[Visualization](https://qiao.github.io/PathFinding.js/visual/)
+
+[Heuristics](http://theory.stanford.edu/~amitp/GameProgramming/Heuristics.html)
